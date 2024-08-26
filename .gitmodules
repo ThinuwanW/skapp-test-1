@@ -1,0 +1,3 @@
+[submodule "enterprise"]
+	path = enterprise
+	url = git@github.com:ThinuwanW/skapp-test-2.git
